@@ -1,3 +1,3 @@
 # from africa with love
 
-learn more about the mission here: [https://explain.fromafri.ca](https://explain.fromafri.ca)
+learn more about the mission here: [https://developers.fromafri.ca](https://developers.fromafri.ca)
